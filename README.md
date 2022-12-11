@@ -203,8 +203,6 @@ This project uses many of the popular libraries, plugins and tools of the androi
 - [Spotless](https://github.com/diffplug/spotless) - It’s pretty useful in automating fixes for pretty simple (and common) formatting mistakes as in spaces, newlines, removing unnecessary imports, etc.
 - [Detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
 
-## 🚀 Posts In Medium
-[Article](https://developersancho.medium.com/jetpack-compose-modular-clean-architecture-with-rorty-app-58d801571ab9)
 
 ## 🤝 Contributing
 
