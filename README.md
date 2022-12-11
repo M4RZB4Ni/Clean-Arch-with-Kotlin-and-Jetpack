@@ -9,9 +9,9 @@
    <img height="250" src="https://user-images.githubusercontent.com/80427734/147891822-5cd34c80-8dca-4d34-8278-2aa3bf36913f.png"/> 
 </p>
 
-<h1 align="center"> Jet Rorty Android </h1>
+<h1 align="center"> Clean Architecture Android </h1>
 
-Android Clean Architecture in Rorty is a sample project that presents modern, approach to [Android](https://www.android.com/) application development using [Kotlin](https://kotlinlang.org/) and latest tech-stack.
+Android Clean Architecture is a sample project that presents modern, approach to [Android](https://www.android.com/) application development using [Kotlin](https://kotlinlang.org/) and latest tech-stack.
 
 The goal of the project is to demonstrate best practices, provide a set of guidelines, and present modern Android
 application architecture that is modular, scalable, maintainable and testable. This application may look simple, but it
@@ -20,7 +20,6 @@ long application lifecycle management.
 
 An android app built using Kotlin that consumes [Rick and Morty API](https://rickandmortyapi.com) to display characters,episodes,Location from the [TV Series](https://www.imdb.com/title/tt2861424/). It has been built following Clean Architecture Principle, Repository Pattern, MVVM Architecture in the presentation layer as well as Jetpack components.
 
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200">](https://github.com/developersancho/JetRorty.Android)
 
 ## Environment Setup
 
